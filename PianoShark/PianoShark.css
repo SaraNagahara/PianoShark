@@ -1,0 +1,164 @@
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Gupter:wght@400;500;700&family=Playwrite+AR:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Gupter:wght@400;500;700&family=Playwrite+AR:wght@100..400&display=swap');
+
+/*active button color */
+.tile.active {
+    background-color: #00ffee;
+}
+
+/* Center Div */
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #e7fffc;
+}
+
+/*header*/
+
+
+
+h1{
+    font-family: "Playwrite AR", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-style: dashed;
+}
+
+
+/* Shark */
+
+h2{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 3%;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+img{
+    width: 60%;
+    margin-left: 250px;
+    margin-top: 0;
+}
+
+/* Piano */
+.piano{
+    background-color: black;
+    width: 730px;
+}
+
+button{
+    width: 100px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    gap: 0;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-weight: 700;
+    
+}
+
+ul{
+    display: flex;
+    gap: 90px;
+    margin-right: 2%;
+}
+
+ul li{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+}
+
+/* Black Notes*/ 
+
+.black-note-two1{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 64px;
+ }
+
+ .black-note-two2{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 109px;
+ }
+
+ .black-note-two11{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 480px;
+ }
+
+ .black-note-two22{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 525px;
+ }
+
+ .black-note-three1{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 250px;
+ }
+ .black-note-three2{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 290px;
+ }
+
+ .black-note-three3{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 330px;
+ }
+
+ .black-note-three33{
+    position: absolute;
+    background-color: black;
+    width: 30px;
+    height: 90px;
+    margin-left: 690px;
+ }
+
+
+ /*footer*/
+
+ .CopyRight{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-weight: 700;
+
+}
+
+a:hover{
+    color: #F72798;
+}
+
+
+
+
+
+
+
+
